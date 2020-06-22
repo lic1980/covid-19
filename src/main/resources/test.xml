@@ -1,0 +1,127 @@
+<operation type="add"
+	xmlns="http://operation.test.nbi.oss.nsn.com">
+	<networkElements>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-1">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-2">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-3">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-4">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-5">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-6">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-7">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-8">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-9">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-10">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-11">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-12">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-13">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-14">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-15">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-16">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-17">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-18">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-19">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-20">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+
+		<networkElement dn="PLMN-nbi3gctatest/RNC-21">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-22">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-23">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-24">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-25">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-26">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-27">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-28">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-29">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-30">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-31">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-32">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-33">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-34">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-35">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-36">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-37">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-38">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-39">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-40">
+			<rac clazz="NOKRNC:RNC" version="RN7.0" />
+		</networkElement>
+	</networkElements>
+
+</operation>

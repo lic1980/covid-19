@@ -1,0 +1,127 @@
+<operation type="delete"
+	xmlns="http://operation.test.nbi.oss.nsn.com">
+	<networkElements>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-1">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-2">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-3">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-4">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-5">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-6">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-7">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-8">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-9">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-10">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-11">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-12">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-13">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-14">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-15">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-16">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-17">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-18">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-19">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-20">
+			<rac/>
+		</networkElement>
+
+		<networkElement dn="PLMN-nbi3gctatest/RNC-21">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-22">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-23">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-24">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-25">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-26">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-27">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-28">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-29">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-30">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-31">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-32">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-33">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-34">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-35">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-36">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-37">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-38">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-39">
+			<rac/>
+		</networkElement>
+		<networkElement dn="PLMN-nbi3gctatest/RNC-40">
+			<rac/>
+		</networkElement>
+	</networkElements>
+
+</operation>
